@@ -1,5 +1,13 @@
 # Primeras prácticas con find
 
+## Archivos
+La carpeta **src** contiene los archivos de la práctica.
+
+El archivo **datos.js** contiene los insertOne y sus datos.
+
+El archivo **gabrel_lopez_sanchez_consultas.js** contiene las consultas de la operación *find*.
+
+
 ## Explicación del código
 
 **db.coleccion01.find({
