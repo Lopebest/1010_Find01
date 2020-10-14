@@ -2,9 +2,9 @@
 
 ## Explicación del código
 
-db.coleccion01.find({
+**db.coleccion01.find({
   x: "Hola mundo"
-})
+})**
 
 -db: hace referencia a la base de datos que estemos usando.
 
